@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'tooltip-testing';
+  myOptions = {
+    'placement': 'left',
+    'showDelay': 500
+}
 }

@@ -21,7 +21,15 @@
     "lib": [
       "es2020",
       "dom"
-    ]
+    ],
+    "paths": {
+      "@cm-angular-tooltip": [
+        "../cm-angular-tooltip/dist/cm-angular-tooltip"
+      ],
+      "@angular/*": [
+        "./node_modules/@angular/*"
+      ]
+    },
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
