@@ -31,7 +31,7 @@ import { TooltipModule } from 'cm-angular-tooltip';
 Options can be set in the directive tag, so they have the highest priority.
 
 ```html
-<span tooltip="Tooltip" placement="top" showDelay="500">Tooltip on top</span>
+<span tooltip="Tooltip" placement="top" [showDelay]=500>Tooltip on top</span>
 ```
 
 You may pass as an object:
