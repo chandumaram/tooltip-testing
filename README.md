@@ -23,6 +23,7 @@ import { TooltipModule } from 'cm-angular-tooltip';
 
 | Angular Version | cm-angular-tooltip |
 |-----------------|--------------------|
+| 15 | 2.0.0 |
 | 14 | 1.0.0 |
 
 
