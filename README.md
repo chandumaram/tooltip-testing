@@ -1,7 +1,6 @@
 # Tooltip for Angular
-### forked from cm-angular-tooltip
 
-The tooltip is a pop-up tip that appears when you hover over an item or click on it.
+The tooltip (cm-angular-tooltip) is a pop-up tip that appears when you hover over an item or click on it.
 
 ## Installation
 
@@ -23,6 +22,7 @@ import { TooltipModule } from 'cm-angular-tooltip';
 
 | Angular Version | cm-angular-tooltip |
 |-----------------|--------------------|
+| 16 | 3.0.0 |
 | 15 | 2.0.0 |
 | 14 | 1.0.0 |
 
